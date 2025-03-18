@@ -79,4 +79,3 @@ To format (you'll need `clang-format`):
 To see all available targets,
 
     $ make help
-# CS144
